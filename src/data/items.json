@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Audi",
+      "price": 1067,
+      "imgUrl": "public/imgs/audi2.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "price": 1199,
+      "imgUrl": "public/imgs/bmw2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Ferrari",
+      "price": 9899,
+      "imgUrl": "public/imgs/fer1.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Ford",
+      "price": 1499,
+      "imgUrl": "public/imgs/for3.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Mercidec",
+      "price": 569000,
+      "imgUrl": "public/imgs/mercidec.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Peugeot",
+      "price": 14000,
+      "imgUrl": "public/imgs/pe1.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Porsch",
+      "price": 9980,
+      "imgUrl": "public/imgs/porsh2.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Volkswagen",
+      "price": 8999,
+      "imgUrl": "public/imgs/vw2.jpeg"
+    }
+  ]
